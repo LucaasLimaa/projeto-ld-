@@ -1,0 +1,13 @@
+*{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titulo-principal{
+    color: rgb(224, 14, 14);
+    background-color: blueviolet;
+}
+
+#test-1 {
+    color: brown;
+    background-color: azure;
+}
